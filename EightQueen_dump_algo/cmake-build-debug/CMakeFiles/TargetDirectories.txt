@@ -1,0 +1,3 @@
+/Users/tajbidhasan/Desktop/OOP C++/EightQueen_dump_algo/cmake-build-debug/CMakeFiles/EightQueen_dump_algo.dir
+/Users/tajbidhasan/Desktop/OOP C++/EightQueen_dump_algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tajbidhasan/Desktop/OOP C++/EightQueen_dump_algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
