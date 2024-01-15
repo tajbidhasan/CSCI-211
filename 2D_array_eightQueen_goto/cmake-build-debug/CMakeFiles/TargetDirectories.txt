@@ -1,0 +1,3 @@
+/Users/tajbidhasan/Desktop/CSCI 211/2D_array_eightQueen_goto/cmake-build-debug/CMakeFiles/2D_array_eightQueen_goto.dir
+/Users/tajbidhasan/Desktop/CSCI 211/2D_array_eightQueen_goto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tajbidhasan/Desktop/CSCI 211/2D_array_eightQueen_goto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
