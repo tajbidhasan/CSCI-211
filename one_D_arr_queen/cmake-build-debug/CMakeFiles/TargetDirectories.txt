@@ -1,0 +1,3 @@
+/Users/tajbidhasan/Desktop/OOP C++/one_D_arr_queen/cmake-build-debug/CMakeFiles/one_D_arr_queen.dir
+/Users/tajbidhasan/Desktop/OOP C++/one_D_arr_queen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tajbidhasan/Desktop/OOP C++/one_D_arr_queen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
